@@ -1,4 +1,3 @@
-// src/api/auth.ts
 export const fakeAuthApi = {
   login: async (email: string, password: string) => {
     return new Promise<{ token: string; user: { id: number; name: string } }>((res, rej) => {

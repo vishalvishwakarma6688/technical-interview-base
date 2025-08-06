@@ -1,4 +1,3 @@
-// src/components/forms/Button.tsx
 type ButtonProps = {
   children: React.ReactNode;
   onClick?: () => void;

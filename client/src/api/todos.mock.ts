@@ -1,4 +1,3 @@
-// src/api/todos.mock.ts
 import { TodoPayload } from "./todos";
 
 interface Todo extends TodoPayload {

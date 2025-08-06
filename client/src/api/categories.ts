@@ -1,4 +1,3 @@
-// src/api/categories.ts
 import axios from "axios";
 
 const CATEGORY_API = "http://localhost:3000/api/category";

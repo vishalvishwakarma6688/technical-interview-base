@@ -1,4 +1,3 @@
-// src/pages/Register.tsx
 import { useState } from "react";
 import Input from "../forms/Input";
 import Button from "../forms/Button";
